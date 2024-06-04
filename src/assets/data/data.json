@@ -1,0 +1,10 @@
+[
+  {
+    "image": "./images/react.svg",
+    "paragraph": "Hello This is React"
+  },
+  {
+    "image": "./vite.svg",
+    "paragraph": "Hello This is Vite"
+  }
+]
