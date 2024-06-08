@@ -6,5 +6,9 @@
   {
     "image": "./vite.svg",
     "paragraph": "Hello This is Vite"
+  },
+  {
+    "image": "./images/react.svg",
+    "paragraph": "Hello This is React"
   }
 ]
